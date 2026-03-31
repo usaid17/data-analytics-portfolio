@@ -3,9 +3,9 @@
 > End-to-end SQL analytics project on 100,000+ real Brazilian e-commerce orders.  
 > Built to answer real business questions — not just demonstrate SQL syntax.
 
-![Dashboard Preview](https://claude.ai/chat/dashboard.png)
+![Dashboard Preview](./dashboard.png)
 
-🔗 **[View Live Tableau Dashboard](https://public.tableau.com/your-dashboard-link-here)**
+🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/usaid.khan)**
 
 ---
 
