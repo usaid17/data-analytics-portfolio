@@ -5,7 +5,7 @@
 
 ![Dashboard Preview](./dashboard.png)
 
-🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/usaid.khan)**
+🔗 **[View Live Tableau Dashboard](https://public.tableau.com/app/profile/usaid.khan/viz/OlistE-CommerceSalesAnalysis/Dashboard1)**
 
 ---
 
