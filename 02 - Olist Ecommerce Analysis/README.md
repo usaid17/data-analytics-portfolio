@@ -120,7 +120,7 @@ A real-world, multi-table relational dataset with 9 tables and 100,000+ orders.
 ## Project Structure
 
 ```
-ecommerce-project/
+02 - Olist Ecommerce Analysis/
 ├── data/                    ← raw Kaggle CSVs (not uploaded — see note below)
 ├── results/                 ← exported query results (CSV)
 │   ├── monthly_revenue.csv
